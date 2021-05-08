@@ -5,9 +5,7 @@ import datetime
 import string
 
 B_TOKEN = ""
-ROOM_ID = ""
-
-# main room = Y2lzY29zcGFyazovL3VzL1JPT00vNjA5Nzk5NDAtNTU3My0xMWViLWEzNzUtY2JkMGE4ZjAxYTA3
+ROOM_ID = ""A3
 
 def findISSbyLocation(location):
     key = ""
